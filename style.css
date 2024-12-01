@@ -1,0 +1,25 @@
+
+header{
+     background-color: blue;
+     text-align: center;
+     color: white;
+     font-size: 40px
+}
+
+main{
+    background-color: rgb(25, 233, 233);
+}
+
+
+.ghy{
+    color:white;
+}
+
+footer{
+    background-color: blue;
+    border: 5px solid blue;
+}
+
+footer p{
+    background-color: rgb(25, 233, 233);
+}
